@@ -1,0 +1,8 @@
+{
+   "Vendor" : "General",
+   "Hardware" : "AHB7008T-MH-V1",
+   "PackSize" : 20480,
+   "PreRecSize" : 2048,
+   "LogoArea" : {"Begin": "0xf60000", "End": "0xf80000"},
+   "CompatibleVersion" : 1
+}

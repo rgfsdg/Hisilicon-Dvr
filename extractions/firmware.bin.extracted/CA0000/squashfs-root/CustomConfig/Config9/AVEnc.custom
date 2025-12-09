@@ -1,0 +1,948 @@
+{
+   "Encode" : [
+   {
+      "ExtraFormat" : [
+         {
+         		"VideoEnable" : true,
+            "Video" : {
+            	 "BitRateControl" : "VBR",
+            	 "BitRate" : 214,
+               "Resolution" : "CIF",
+               "FPS" : 12
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "CIF"
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "CIF"
+            }
+         }
+      ],
+      "MainFormat" : [
+         {
+            "Video" : {
+            	 "BitRateControl" : "VBR",
+            	 "BitRate" : 2048,
+               "Resolution" : "650TVL"
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "650TVL"
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "650TVL"
+            }
+         }
+      ],
+      "SnapFormat" : [
+         {
+            "Video" : {
+               "Resolution" : "650TVL"
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "650TVL"
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "650TVL"
+            }
+         }
+      ]
+   },
+   {
+      "ExtraFormat" : [
+         {
+         		"VideoEnable" : true,
+            "Video" : {
+            	 "BitRateControl" : "VBR",
+            	 "BitRate" : 214,
+               "Resolution" : "CIF",
+               "FPS" : 12
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "CIF"
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "CIF"
+            }
+         }
+      ],
+      "MainFormat" : [
+         {
+            "Video" : {
+            	"BitRateControl" : "VBR",
+            	 "BitRate" : 2048,
+               "Resolution" : "650TVL"
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "650TVL"
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "650TVL"
+            }
+         }
+      ],
+      "SnapFormat" : [
+         {
+            "Video" : {
+               "Resolution" : "650TVL"
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "650TVL"
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "650TVL"
+            }
+         }
+      ]
+   },
+   {
+      "ExtraFormat" : [
+         {
+         		"VideoEnable" : true,
+            "Video" : {
+            	 "BitRateControl" : "VBR",
+            	 "BitRate" : 214,
+               "Resolution" : "CIF",
+               "FPS" : 12
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "CIF"
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "CIF"
+            }
+         }
+      ],
+      "MainFormat" : [
+         {
+            "Video" : {
+            	 "BitRateControl" : "VBR",
+            	 "BitRate" : 2048,
+               "Resolution" : "650TVL"
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "650TVL"
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "650TVL"
+            }
+         }
+      ],
+      "SnapFormat" : [
+         {
+            "Video" : {
+               "Resolution" : "650TVL"
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "650TVL"
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "650TVL"
+            }
+         }
+      ]
+   },
+   {
+      "ExtraFormat" : [
+         {
+         		"VideoEnable" : true,
+            "Video" : {
+            	 "BitRateControl" : "VBR",
+            	 "BitRate" : 214,
+               "Resolution" : "CIF",
+               "FPS" : 12
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "CIF"
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "CIF"
+            }
+         }
+      ],
+      "MainFormat" : [
+         {
+            "Video" : {
+            	 "BitRateControl" : "VBR",
+            	 "BitRate" : 2048,
+               "Resolution" : "650TVL"
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "650TVL"
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "650TVL"
+            }
+         }
+      ],
+      "SnapFormat" : [
+         {
+            "Video" : {
+               "Resolution" : "650TVL"
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "650TVL"
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "650TVL"
+            }
+         }
+      ]
+   },
+   {
+      "ExtraFormat" : [
+         {
+         		"VideoEnable" : true,
+            "Video" : {
+               "BitRateControl" : "VBR",
+            	 "BitRate" : 214,
+               "Resolution" : "CIF",
+               "FPS" : 12
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "CIF"
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "CIF"
+            }
+         }
+      ],
+      "MainFormat" : [
+         {
+            "Video" : {
+            	 "BitRateControl" : "VBR",
+            	 "BitRate" : 2048,
+               "Resolution" : "650TVL"
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "650TVL"
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "650TVL"
+            }
+         }
+      ],
+      "SnapFormat" : [
+         {
+            "Video" : {
+               "Resolution" : "650TVL"
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "650TVL"
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "650TVL"
+            }
+         }
+      ]
+   },
+   {
+      "ExtraFormat" : [
+         {
+         		"VideoEnable" : true,
+            "Video" : {
+               "BitRateControl" : "VBR",
+            	 "BitRate" : 214,
+               "Resolution" : "CIF",
+               "FPS" : 12
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "CIF"
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "CIF"
+            }
+         }
+      ],
+      "MainFormat" : [
+         {
+            "Video" : {
+               "BitRateControl" : "VBR",
+            	 "BitRate" : 2048,
+               "Resolution" : "650TVL"
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "650TVL"
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "650TVL"
+            }
+         }
+      ],
+      "SnapFormat" : [
+         {
+            "Video" : {
+               "Resolution" : "650TVL"
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "650TVL"
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "650TVL"
+            }
+         }
+      ]
+   },
+   {
+      "ExtraFormat" : [
+         {
+         		"VideoEnable" : true,
+            "Video" : {
+               "BitRateControl" : "VBR",
+            	 "BitRate" : 214,
+               "Resolution" : "CIF",
+               "FPS" : 12
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "CIF"
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "CIF"
+            }
+         }
+      ],
+      "MainFormat" : [
+         {
+            "Video" : {
+               "BitRateControl" : "VBR",
+            	 "BitRate" : 2048,
+               "Resolution" : "650TVL"
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "650TVL"
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "650TVL"
+            }
+         }
+      ],
+      "SnapFormat" : [
+         {
+            "Video" : {
+               "Resolution" : "650TVL"
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "650TVL"
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "650TVL"
+            }
+         }
+      ]
+   },
+   {
+      "ExtraFormat" : [
+         {
+         		"VideoEnable" : true,
+            "Video" : {
+               "BitRateControl" : "VBR",
+            	 "BitRate" : 214,
+               "Resolution" : "CIF",
+               "FPS" : 12
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "CIF"
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "CIF"
+            }
+         }
+      ],
+      "MainFormat" : [
+         {
+            "Video" : {
+               "BitRateControl" : "VBR",
+            	 "BitRate" : 2048,
+               "Resolution" : "650TVL"
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "650TVL"
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "650TVL"
+            }
+         }
+      ],
+      "SnapFormat" : [
+         {
+            "Video" : {
+               "Resolution" : "650TVL"
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "650TVL"
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "650TVL"
+            }
+         }
+      ]
+   },
+   {
+      "ExtraFormat" : [
+         {
+         		"VideoEnable" : true,
+            "Video" : {
+               "BitRateControl" : "VBR",
+            	 "BitRate" : 214,
+               "Resolution" : "CIF",
+               "FPS" : 12
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "CIF"
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "CIF"
+            }
+         }
+      ],
+      "MainFormat" : [
+         {
+            "Video" : {
+               "BitRateControl" : "VBR",
+            	 "BitRate" : 2048,
+               "Resolution" : "650TVL"
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "650TVL"
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "650TVL"
+            }
+         }
+      ],
+      "SnapFormat" : [
+         {
+            "Video" : {
+               "Resolution" : "650TVL"
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "650TVL"
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "650TVL"
+            }
+         }
+      ]
+   },
+   {
+      "ExtraFormat" : [
+         {
+         		"VideoEnable" : true,
+            "Video" : {
+               "BitRateControl" : "VBR",
+            	 "BitRate" : 214,
+               "Resolution" : "CIF",
+               "FPS" : 12
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "CIF"
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "CIF"
+            }
+         }
+      ],
+      "MainFormat" : [
+         {
+            "Video" : {
+            	 "BitRateControl" : "VBR",
+            	 "BitRate" : 2048,
+               "Resolution" : "650TVL"
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "650TVL"
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "650TVL"
+            }
+         }
+      ],
+      "SnapFormat" : [
+         {
+            "Video" : {
+               "Resolution" : "650TVL"
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "650TVL"
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "650TVL"
+            }
+         }
+      ]
+   },
+   {
+      "ExtraFormat" : [
+         {
+         		"VideoEnable" : true,
+            "Video" : {
+               "BitRateControl" : "VBR",
+            	 "BitRate" : 214,
+               "Resolution" : "CIF",
+               "FPS" : 12
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "CIF"
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "CIF"
+            }
+         }
+      ],
+      "MainFormat" : [
+         {
+            "Video" : {
+            	 "BitRateControl" : "VBR",
+            	 "BitRate" : 2048,
+               "Resolution" : "650TVL"
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "650TVL"
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "650TVL"
+            }
+         }
+      ],
+      "SnapFormat" : [
+         {
+            "Video" : {
+               "Resolution" : "650TVL"
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "650TVL"
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "650TVL"
+            }
+         }
+      ]
+   },
+   {
+      "ExtraFormat" : [
+         {
+         		"VideoEnable" : true,
+            "Video" : {
+            	 "BitRateControl" : "VBR",
+            	 "BitRate" : 214,
+               "Resolution" : "CIF",
+               "FPS" : 12
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "CIF"
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "CIF"
+            }
+         }
+      ],
+      "MainFormat" : [
+         {
+            "Video" : {
+            	 "BitRateControl" : "VBR",
+            	 "BitRate" : 2048,
+               "Resolution" : "650TVL"
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "650TVL"
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "650TVL"
+            }
+         }
+      ],
+      "SnapFormat" : [
+         {
+            "Video" : {
+               "Resolution" : "650TVL"
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "650TVL"
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "650TVL"
+            }
+         }
+      ]
+   },
+   {
+      "ExtraFormat" : [
+         {
+         		"VideoEnable" : true,
+            "Video" : {
+               "BitRateControl" : "VBR",
+            	 "BitRate" : 214,
+               "Resolution" : "CIF",
+               "FPS" : 12
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "CIF"
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "CIF"
+            }
+         }
+      ],
+      "MainFormat" : [
+         {
+            "Video" : {
+            	 "BitRateControl" : "VBR",
+            	 "BitRate" : 2048,
+               "Resolution" : "650TVL"
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "650TVL"
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "650TVL"
+            }
+         }
+      ],
+      "SnapFormat" : [
+         {
+            "Video" : {
+               "Resolution" : "650TVL"
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "650TVL"
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "650TVL"
+            }
+         }
+      ]
+   },
+   {
+      "ExtraFormat" : [
+         {
+         		"VideoEnable" : true,
+            "Video" : {
+               "BitRateControl" : "VBR",
+            	 "BitRate" : 214,
+               "Resolution" : "CIF",
+               "FPS" : 12
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "CIF"
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "CIF"
+            }
+         }
+      ],
+      "MainFormat" : [
+         {
+            "Video" : {
+               "BitRateControl" : "VBR",
+            	 "BitRate" : 2048,
+               "Resolution" : "650TVL"
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "650TVL"
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "650TVL"
+            }
+         }
+      ],
+      "SnapFormat" : [
+         {
+            "Video" : {
+               "Resolution" : "650TVL"
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "650TVL"
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "650TVL"
+            }
+         }
+      ]
+   },
+   {
+      "ExtraFormat" : [
+         {
+         		"VideoEnable" : true,
+            "Video" : {
+               "BitRateControl" : "VBR",
+            	 "BitRate" : 214,
+               "Resolution" : "CIF",
+               "FPS" : 12
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "CIF"
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "CIF"
+            }
+         }
+      ],
+      "MainFormat" : [
+         {
+            "Video" : {
+            	 "BitRateControl" : "VBR",
+            	 "BitRate" : 2048,
+               "Resolution" : "650TVL"
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "650TVL"
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "650TVL"
+            }
+         }
+      ],
+      "SnapFormat" : [
+         {
+            "Video" : {
+               "Resolution" : "650TVL"
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "650TVL"
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "650TVL"
+            }
+         }
+      ]
+   },
+   {
+      "ExtraFormat" : [
+         {
+         		"VideoEnable" : true,
+            "Video" : {
+               "BitRateControl" : "VBR",
+            	 "BitRate" : 214,
+               "Resolution" : "CIF",
+               "FPS" : 12
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "CIF"
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "CIF"
+            }
+         }
+      ],
+      "MainFormat" : [
+         {
+            "Video" : {
+            	 "BitRateControl" : "VBR",
+            	 "BitRate" : 2048,
+               "Resolution" : "650TVL"
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "650TVL"
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "650TVL"
+            }
+         }
+      ],
+      "SnapFormat" : [
+         {
+            "Video" : {
+               "Resolution" : "650TVL"
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "650TVL"
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "650TVL"
+            }
+         }
+      ]
+   }
+]
+}

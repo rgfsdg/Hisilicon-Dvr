@@ -1,0 +1,240 @@
+{
+   "Encode" : [
+      {
+         "ExtraFormat" : [
+            {
+               "Video" : {
+                  "BitRate" : 214,
+                  "BitRateControl" : "VBR",
+                  "FPS" : 12,
+                  "Resolution" : "CIF"
+               },
+               "VideoEnable" : true
+            },
+            {
+               "Video" : {
+                  "Resolution" : "CIF"
+               }
+            },
+            {
+               "Video" : {
+                  "Resolution" : "CIF"
+               }
+            }
+         ],
+         "MainFormat" : [
+            {
+               "Video" : {
+                  "BitRate" : 4096,
+                  "BitRateControl" : "VBR",
+                  "Resolution" : "1080P"
+               }
+            },
+            {
+               "Video" : {
+                  "Resolution" : "1080P"
+               }
+            },
+            {
+               "Video" : {
+                  "Resolution" : "1080P"
+               }
+            }
+         ],
+         "SnapFormat" : [
+            {
+               "Video" : {
+                  "Resolution" : "1080P"
+               }
+            },
+            {
+               "Video" : {
+                  "Resolution" : "1080P"
+               }
+            },
+            {
+               "Video" : {
+                  "Resolution" : "1080P"
+               }
+            }
+         ]
+      },
+      {
+         "ExtraFormat" : [
+            {
+               "Video" : {
+                  "BitRate" : 214,
+                  "BitRateControl" : "VBR",
+                  "FPS" : 12,
+                  "Resolution" : "CIF"
+               },
+               "VideoEnable" : true
+            },
+            {
+               "Video" : {
+                  "Resolution" : "CIF"
+               }
+            },
+            {
+               "Video" : {
+                  "Resolution" : "CIF"
+               }
+            }
+         ],
+         "MainFormat" : [
+            {
+               "Video" : {
+                  "BitRate" : 4096,
+                  "BitRateControl" : "VBR",
+                  "Resolution" : "1080P"
+               }
+            },
+            {
+               "Video" : {
+                  "Resolution" : "1080P"
+               }
+            },
+            {
+               "Video" : {
+                  "Resolution" : "1080P"
+               }
+            }
+         ],
+         "SnapFormat" : [
+            {
+               "Video" : {
+                  "Resolution" : "1080P"
+               }
+            },
+            {
+               "Video" : {
+                  "Resolution" : "1080P"
+               }
+            },
+            {
+               "Video" : {
+                  "Resolution" : "1080P"
+               }
+            }
+         ]
+      },
+      {
+         "ExtraFormat" : [
+            {
+               "Video" : {
+                  "BitRate" : 214,
+                  "BitRateControl" : "VBR",
+                  "FPS" : 12,
+                  "Resolution" : "CIF"
+               },
+               "VideoEnable" : true
+            },
+            {
+               "Video" : {
+                  "Resolution" : "CIF"
+               }
+            },
+            {
+               "Video" : {
+                  "Resolution" : "CIF"
+               }
+            }
+         ],
+         "MainFormat" : [
+            {
+               "Video" : {
+                  "BitRate" : 4096,
+                  "BitRateControl" : "VBR",
+                  "Resolution" : "1080P"
+               }
+            },
+            {
+               "Video" : {
+                  "Resolution" : "1080P"
+               }
+            },
+            {
+               "Video" : {
+                  "Resolution" : "1080P"
+               }
+            }
+         ],
+         "SnapFormat" : [
+            {
+               "Video" : {
+                  "Resolution" : "1080P"
+               }
+            },
+            {
+               "Video" : {
+                  "Resolution" : "1080P"
+               }
+            },
+            {
+               "Video" : {
+                  "Resolution" : "1080P"
+               }
+            }
+         ]
+      },
+      {
+         "ExtraFormat" : [
+            {
+               "Video" : {
+                  "BitRate" : 214,
+                  "BitRateControl" : "VBR",
+                  "FPS" : 12,
+                  "Resolution" : "CIF"
+               },
+               "VideoEnable" : true
+            },
+            {
+               "Video" : {
+                  "Resolution" : "CIF"
+               }
+            },
+            {
+               "Video" : {
+                  "Resolution" : "CIF"
+               }
+            }
+         ],
+         "MainFormat" : [
+            {
+               "Video" : {
+                  "BitRate" : 4096,
+                  "BitRateControl" : "VBR",
+                  "Resolution" : "1080P"
+               }
+            },
+            {
+               "Video" : {
+                  "Resolution" : "1080P"
+               }
+            },
+            {
+               "Video" : {
+                  "Resolution" : "1080P"
+               }
+            }
+         ],
+         "SnapFormat" : [
+            {
+               "Video" : {
+                  "Resolution" : "1080P"
+               }
+            },
+            {
+               "Video" : {
+                  "Resolution" : "1080P"
+               }
+            },
+            {
+               "Video" : {
+                  "Resolution" : "1080P"
+               }
+            }
+         ]
+      }
+   ]
+}

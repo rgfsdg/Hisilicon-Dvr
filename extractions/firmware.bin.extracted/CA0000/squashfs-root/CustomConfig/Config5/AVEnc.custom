@@ -1,0 +1,484 @@
+{
+   "Encode" : [
+   {
+      "ExtraFormat" : [
+         {
+         		"VideoEnable" : true,
+            "Video" : {
+               "BitRateControl" : "VBR",
+            	 "BitRate" : 214,
+               "Resolution" : "CIF",
+               "FPS" : 12
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "CIF"
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "CIF"
+            }
+         }
+      ],
+      "MainFormat" : [
+         {
+            "Video" : {
+            	 "BitRateControl" : "VBR",
+            	 "BitRate" : 2560,
+            	 "FPS" : 25,
+               "Resolution" : "720P"
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "720P"
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "720P"
+            }
+         }
+      ],
+      "SnapFormat" : [
+         {
+            "Video" : {
+               "Resolution" : "720P"
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "720P"
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "720P"
+            }
+         }
+      ]
+   },   
+   {
+      "ExtraFormat" : [
+         {
+         		"VideoEnable" : true,
+            "Video" : {
+               "BitRateControl" : "VBR",
+            	 "BitRate" : 214,
+               "Resolution" : "CIF",
+               "FPS" : 12
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "CIF"
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "CIF"
+            }
+         }
+      ],
+      "MainFormat" : [
+         {
+            "Video" : {
+            	 "BitRateControl" : "VBR",
+            	 "BitRate" : 2560,
+            	 "FPS" : 25,
+               "Resolution" : "720P"
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "720P"
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "720P"
+            }
+         }
+      ],
+      "SnapFormat" : [
+         {
+            "Video" : {
+               "Resolution" : "720P"
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "720P"
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "720P"
+            }
+         }
+      ]
+   },
+      {
+      "ExtraFormat" : [
+         {
+         		"VideoEnable" : true,
+            "Video" : {
+               "BitRateControl" : "VBR",
+            	 "BitRate" : 214,
+               "Resolution" : "CIF",
+               "FPS" : 12
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "CIF"
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "CIF"
+            }
+         }
+      ],
+      "MainFormat" : [
+         {
+            "Video" : {
+            	 "BitRateControl" : "VBR",
+            	 "BitRate" : 2560,
+            	 "FPS" : 25,
+               "Resolution" : "720P"
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "720P"
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "720P"
+            }
+         }
+      ],
+      "SnapFormat" : [
+         {
+            "Video" : {
+               "Resolution" : "720P"
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "720P"
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "720P"
+            }
+         }
+      ]
+   },
+      {
+      "ExtraFormat" : [
+         {
+         		"VideoEnable" : true,
+            "Video" : {
+               "BitRateControl" : "VBR",
+            	 "BitRate" : 214,
+               "Resolution" : "CIF",
+               "FPS" : 12
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "CIF"
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "CIF"
+            }
+         }
+      ],
+      "MainFormat" : [
+         {
+            "Video" : {
+            	 "BitRateControl" : "VBR",
+            	 "BitRate" : 2560,
+            	 "FPS" : 25,
+               "Resolution" : "720P"
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "720P"
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "720P"
+            }
+         }
+      ],
+      "SnapFormat" : [
+         {
+            "Video" : {
+               "Resolution" : "720P"
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "720P"
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "720P"
+            }
+         }
+      ]
+   },
+      {
+      "ExtraFormat" : [
+         {
+         		"VideoEnable" : true,
+            "Video" : {
+               "BitRateControl" : "VBR",
+            	 "BitRate" : 214,
+               "Resolution" : "CIF",
+               "FPS" : 12
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "CIF"
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "CIF"
+            }
+         }
+      ],
+      "MainFormat" : [
+         {
+            "Video" : {
+            	 "BitRateControl" : "VBR",
+            	 "BitRate" : 2560,
+            	 "FPS" : 25,
+               "Resolution" : "720P"
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "720P"
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "720P"
+            }
+         }
+      ],
+      "SnapFormat" : [
+         {
+            "Video" : {
+               "Resolution" : "720P"
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "720P"
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "720P"
+            }
+         }
+      ]
+   },
+      {
+      "ExtraFormat" : [
+         {
+         		"VideoEnable" : true,
+            "Video" : {
+               "BitRateControl" : "VBR",
+            	 "BitRate" : 214,
+               "Resolution" : "CIF",
+               "FPS" : 12
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "CIF"
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "CIF"
+            }
+         }
+      ],
+      "MainFormat" : [
+         {
+            "Video" : {
+            	 "BitRateControl" : "VBR",
+            	 "BitRate" : 2560,
+            	 "FPS" : 25,
+               "Resolution" : "720P"
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "720P"
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "720P"
+            }
+         }
+      ],
+      "SnapFormat" : [
+         {
+            "Video" : {
+               "Resolution" : "720P"
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "720P"
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "720P"
+            }
+         }
+      ]
+   },
+      {
+      "ExtraFormat" : [
+         {
+         		"VideoEnable" : true,
+            "Video" : {
+               "BitRateControl" : "VBR",
+            	 "BitRate" : 214,
+               "Resolution" : "CIF",
+               "FPS" : 12
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "CIF"
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "CIF"
+            }
+         }
+      ],
+      "MainFormat" : [
+         {
+            "Video" : {
+            	 "BitRateControl" : "VBR",
+            	 "BitRate" : 2560,
+            	 "FPS" : 25,
+               "Resolution" : "720P"
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "720P"
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "720P"
+            }
+         }
+      ],
+      "SnapFormat" : [
+         {
+            "Video" : {
+               "Resolution" : "720P"
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "720P"
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "720P"
+            }
+         }
+      ]
+   },
+      {
+      "ExtraFormat" : [
+         {
+         		"VideoEnable" : true,
+            "Video" : {
+               "BitRateControl" : "VBR",
+            	 "BitRate" : 214,
+               "Resolution" : "CIF",
+               "FPS" : 12
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "CIF"
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "CIF"
+            }
+         }
+      ],
+      "MainFormat" : [
+         {
+            "Video" : {
+            	 "BitRateControl" : "VBR",
+            	 "BitRate" : 2560,
+            	 "FPS" : 25,
+               "Resolution" : "720P"
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "720P"
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "720P"
+            }
+         }
+      ],
+      "SnapFormat" : [
+         {
+            "Video" : {
+               "Resolution" : "720P"
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "720P"
+            }
+         },
+         {
+            "Video" : {
+               "Resolution" : "720P"
+            }
+         }
+      ]
+   }
+]
+}
